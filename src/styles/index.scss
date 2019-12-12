@@ -11,3 +11,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.counter {
+    margin: auto;
+    text-align: center;
+    background: rgb(68, 67, 67);
+    padding: 10px;
+    color: rgb(250, 184, 184);
+}
+i.fa-clock:before {
+    font-size: 60px;
+}
+
+.counter div{
+    display: inline-block;
+    background: gray;
+    padding: 20px;
+    margin: 1px;
+    font-size: 80px;
+    font-family: 'Comic Sans', cursive;
+}
+
